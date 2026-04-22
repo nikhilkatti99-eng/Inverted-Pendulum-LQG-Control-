@@ -161,4 +161,4 @@ Modeling → Control Design → Disturbance Analysis → State Estimation → In
 ## Author
 
 Your Name  
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/nikhilkatti99-eng
