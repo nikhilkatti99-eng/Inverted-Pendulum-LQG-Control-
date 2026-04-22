@@ -1,5 +1,3 @@
-# Inverted-Pendulum-LQG-Control-
-LQR and Kalman Filter based control of an inverted pendulum system
 # Inverted Pendulum Control using LQR and Kalman Filter (LQG)
 
 ## Overview
