@@ -160,5 +160,5 @@ Modeling → Control Design → Disturbance Analysis → State Estimation → In
 
 ## Author
 
-Your Name  
+Name: Nikhil Katti 
 GitHub: https://github.com/nikhilkatti99-eng
